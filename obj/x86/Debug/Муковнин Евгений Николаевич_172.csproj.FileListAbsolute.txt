@@ -1,0 +1,62 @@
+C:\Users\Smiles\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+C:\Users\Smiles\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+C:\Users\Smiles\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\Муковнин Евгений Николаевич_172\obj\x86\Debug\WindowsFormsApplication2.exe
+C:\Users\Smiles\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\Муковнин Евгений Николаевич_172\obj\x86\Debug\WindowsFormsApplication2.pdb
+C:\Users\Smiles\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\Муковнин Евгений Николаевич_172\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Smiles\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\Муковнин Евгений Николаевич_172\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Smiles\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\Муковнин Евгений Николаевич_172\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Smiles\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\Муковнин Евгений Николаевич_172\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Smiles\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\Муковнин Евгений Николаевич_172\obj\x86\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\Smiles\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\Муковнин Евгений Николаевич_172\obj\x86\Debug\WindowsFormsApplication2.Form3.resources
+C:\Users\Smiles\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\Муковнин Евгений Николаевич_172\obj\x86\Debug\WindowsFormsApplication2.Form4.resources
+C:\Users\Smiles\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\Муковнин Евгений Николаевич_172\obj\x86\Debug\WindowsFormsApplication2.Form5.resources
+C:\Users\Smiles\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\Муковнин Евгений Николаевич_172\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Smiles\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\Муковнин Евгений Николаевич_172\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Smiles\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\Муковнин Евгений Николаевич_172\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Smiles\Documents\Visual Studio 2010\Projects\Муковнин Евгений Николаевич_172\obj\x86\Debug\WindowsFormsApplication2.exe
+C:\Users\Smiles\Documents\Visual Studio 2010\Projects\Муковнин Евгений Николаевич_172\obj\x86\Debug\WindowsFormsApplication2.pdb
+C:\Users\Smiles\Documents\Visual Studio 2010\Projects\Муковнин Евгений Николаевич_172\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Smiles\Documents\Visual Studio 2010\Projects\Муковнин Евгений Николаевич_172\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Smiles\Documents\Visual Studio 2010\Projects\Муковнин Евгений Николаевич_172\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Smiles\Documents\Visual Studio 2010\Projects\Муковнин Евгений Николаевич_172\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Smiles\Documents\Visual Studio 2010\Projects\Муковнин Евгений Николаевич_172\obj\x86\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\Smiles\Documents\Visual Studio 2010\Projects\Муковнин Евгений Николаевич_172\obj\x86\Debug\WindowsFormsApplication2.Form3.resources
+C:\Users\Smiles\Documents\Visual Studio 2010\Projects\Муковнин Евгений Николаевич_172\obj\x86\Debug\WindowsFormsApplication2.Form4.resources
+C:\Users\Smiles\Documents\Visual Studio 2010\Projects\Муковнин Евгений Николаевич_172\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Smiles\Documents\Visual Studio 2010\Projects\Муковнин Евгений Николаевич_172\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Smiles\Documents\Visual Studio 2010\Projects\Муковнин Евгений Николаевич_172\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Smiles\Desktop\Муковнин Евгений Николаевич_172\obj\x86\Debug\WindowsFormsApplication2.exe
+C:\Users\Smiles\Desktop\Муковнин Евгений Николаевич_172\obj\x86\Debug\WindowsFormsApplication2.pdb
+C:\Users\Smiles\Desktop\Муковнин Евгений Николаевич_172\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Smiles\Desktop\Муковнин Евгений Николаевич_172\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Smiles\Desktop\Муковнин Евгений Николаевич_172\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Smiles\Desktop\Муковнин Евгений Николаевич_172\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Smiles\Desktop\Муковнин Евгений Николаевич_172\obj\x86\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\Smiles\Desktop\Муковнин Евгений Николаевич_172\obj\x86\Debug\WindowsFormsApplication2.Form3.resources
+C:\Users\Smiles\Desktop\Муковнин Евгений Николаевич_172\obj\x86\Debug\WindowsFormsApplication2.Form4.resources
+C:\Users\Smiles\Desktop\Муковнин Евгений Николаевич_172\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Smiles\Desktop\Муковнин Евгений Николаевич_172\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Smiles\Desktop\Муковнин Евгений Николаевич_172\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Windows.old\Users\Smiles\Documents\Visual Studio 2010\Projects\Муковнин Евгений Николаевич_172\obj\x86\Debug\WindowsFormsApplication2.exe
+C:\Windows.old\Users\Smiles\Documents\Visual Studio 2010\Projects\Муковнин Евгений Николаевич_172\obj\x86\Debug\WindowsFormsApplication2.pdb
+C:\Users\User\Desktop\Проекты\Projects\Муковнин Евгений Николаевич_172\obj\x86\Debug\WindowsFormsApplication2.exe
+C:\Users\User\Desktop\Проекты\Projects\Муковнин Евгений Николаевич_172\obj\x86\Debug\WindowsFormsApplication2.pdb
+C:\Users\User\Desktop\Проекты\Projects\Муковнин Евгений Николаевич_172\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\User\Desktop\Проекты\Projects\Муковнин Евгений Николаевич_172\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\User\Desktop\Проекты\Projects\Муковнин Евгений Николаевич_172\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\User\Desktop\Проекты\Projects\Муковнин Евгений Николаевич_172\obj\x86\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\User\Desktop\Проекты\Projects\Муковнин Евгений Николаевич_172\obj\x86\Debug\WindowsFormsApplication2.Form3.resources
+C:\Users\User\Desktop\Проекты\Projects\Муковнин Евгений Николаевич_172\obj\x86\Debug\WindowsFormsApplication2.Form4.resources
+C:\Users\User\Desktop\Проекты\Projects\Муковнин Евгений Николаевич_172\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\User\Desktop\Проекты\Projects\Муковнин Евгений Николаевич_172\obj\x86\Debug\Муковнин Евгений Николаевич_172.csproj.GenerateResource.Cache
+C:\Users\User\Downloads\Муковнин Евгений Николаевич_172\obj\x86\Debug\WindowsFormsApplication2.exe
+C:\Users\User\Downloads\Муковнин Евгений Николаевич_172\obj\x86\Debug\WindowsFormsApplication2.pdb
+C:\Users\User\Downloads\Муковнин Евгений Николаевич_172\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\User\Downloads\Муковнин Евгений Николаевич_172\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\User\Downloads\Муковнин Евгений Николаевич_172\obj\x86\Debug\Муковнин Евгений Николаевич_172.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\Муковнин Евгений Николаевич_172\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\User\Downloads\Муковнин Евгений Николаевич_172\obj\x86\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\User\Downloads\Муковнин Евгений Николаевич_172\obj\x86\Debug\WindowsFormsApplication2.Form3.resources
+C:\Users\User\Downloads\Муковнин Евгений Николаевич_172\obj\x86\Debug\WindowsFormsApplication2.Form4.resources
+C:\Users\User\Downloads\Муковнин Евгений Николаевич_172\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\User\Downloads\Муковнин Евгений Николаевич_172\obj\x86\Debug\Муковнин Евгений Николаевич_172.csproj.GenerateResource.Cache
